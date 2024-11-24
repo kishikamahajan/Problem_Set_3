@@ -1,0 +1,156 @@
+binned_latitude,binned_longitude,count,type,subtype
+41.9,-87.66,561,Accident,Unclassified
+41.88,-87.65,536,Accident,Unclassified
+41.89,-87.65,452,Accident,Unclassified
+41.9,-87.62,437,Accident,Unclassified
+41.85,-87.64,363,Accident,Unclassified
+41.86,-87.64,352,Accident,Unclassified
+41.87,-87.64,340,Accident,Unclassified
+41.81,-87.63,307,Accident,Unclassified
+41.97,-87.75,279,Accident,Unclassified
+41.84,-87.63,268,Accident,Unclassified
+41.9,-87.66,360,Accident,Major
+41.87,-87.64,225,Accident,Major
+41.88,-87.65,192,Accident,Major
+41.86,-87.64,161,Accident,Major
+41.85,-87.64,157,Accident,Major
+41.89,-87.65,145,Accident,Major
+41.81,-87.63,143,Accident,Major
+41.78,-87.63,135,Accident,Major
+41.88,-87.66,123,Accident,Major
+41.84,-87.63,119,Accident,Major
+41.89,-87.65,66,Accident,Minor
+41.9,-87.62,58,Accident,Minor
+41.88,-87.65,56,Accident,Minor
+41.86,-87.64,52,Accident,Minor
+41.9,-87.66,47,Accident,Minor
+41.85,-87.64,45,Accident,Minor
+41.95,-87.72,39,Accident,Minor
+41.96,-87.74,38,Accident,Minor
+41.92,-87.67,36,Accident,Minor
+41.87,-87.64,35,Accident,Minor
+41.89,-87.65,1086,Jam,Unclassified
+41.9,-87.66,973,Jam,Unclassified
+41.88,-87.65,944,Jam,Unclassified
+41.94,-87.71,624,Jam,Unclassified
+41.92,-87.67,612,Jam,Unclassified
+41.98,-87.79,610,Jam,Unclassified
+41.98,-87.78,604,Jam,Unclassified
+41.93,-87.69,593,Jam,Unclassified
+41.85,-87.64,582,Jam,Unclassified
+41.91,-87.66,581,Jam,Unclassified
+41.9,-87.66,4323,Jam,Heavy Traffic
+41.88,-87.65,4214,Jam,Heavy Traffic
+41.89,-87.65,4194,Jam,Heavy Traffic
+41.96,-87.74,2945,Jam,Heavy Traffic
+41.97,-87.76,2752,Jam,Heavy Traffic
+41.94,-87.71,2731,Jam,Heavy Traffic
+41.93,-87.69,2514,Jam,Heavy Traffic
+41.92,-87.67,2458,Jam,Heavy Traffic
+41.98,-87.78,2428,Jam,Heavy Traffic
+41.97,-87.75,2399,Jam,Heavy Traffic
+41.92,-87.67,91,Jam,Moderate Traffic
+41.9,-87.66,88,Jam,Moderate Traffic
+41.89,-87.65,70,Jam,Moderate Traffic
+41.97,-87.75,69,Jam,Moderate Traffic
+41.92,-87.68,65,Jam,Moderate Traffic
+41.98,-87.79,65,Jam,Moderate Traffic
+41.94,-87.71,64,Jam,Moderate Traffic
+41.93,-87.69,63,Jam,Moderate Traffic
+41.88,-87.65,60,Jam,Moderate Traffic
+41.82,-87.73,60,Jam,Moderate Traffic
+41.88,-87.65,4666,Jam,Stand-Still Traffic
+41.89,-87.65,4278,Jam,Stand-Still Traffic
+41.9,-87.66,3563,Jam,Stand-Still Traffic
+41.97,-87.76,2503,Jam,Stand-Still Traffic
+41.98,-87.75,2347,Jam,Stand-Still Traffic
+41.96,-87.74,2287,Jam,Stand-Still Traffic
+41.97,-87.75,2079,Jam,Stand-Still Traffic
+41.94,-87.71,1983,Jam,Stand-Still Traffic
+41.95,-87.73,1972,Jam,Stand-Still Traffic
+41.98,-87.78,1913,Jam,Stand-Still Traffic
+41.84,-87.71,1,Jam,Light Traffic
+41.86,-87.62,1,Jam,Light Traffic
+41.88,-87.63,1,Jam,Light Traffic
+41.88,-87.62,1,Jam,Light Traffic
+41.92,-87.81,1,Jam,Light Traffic
+41.88,-87.65,979,Road Closed,Unclassified
+41.9,-87.66,585,Road Closed,Unclassified
+41.88,-87.62,420,Road Closed,Unclassified
+41.9,-87.63,384,Road Closed,Unclassified
+41.87,-87.62,367,Road Closed,Unclassified
+41.95,-87.65,329,Road Closed,Unclassified
+41.94,-87.65,314,Road Closed,Unclassified
+41.87,-87.64,257,Road Closed,Unclassified
+41.89,-87.65,254,Road Closed,Unclassified
+41.96,-87.7,250,Road Closed,Unclassified
+41.96,-87.75,9907,Road Closed,Event
+41.88,-87.65,5002,Road Closed,Event
+41.84,-87.63,4974,Road Closed,Event
+41.89,-87.65,4964,Road Closed,Event
+41.69,-87.6,4964,Road Closed,Event
+41.71,-87.64,4947,Road Closed,Event
+41.97,-87.75,4932,Road Closed,Event
+41.88,-87.62,291,Road Closed,Event
+41.87,-87.62,233,Road Closed,Event
+41.94,-87.64,116,Road Closed,Event
+41.88,-87.65,15,Road Closed,Construction
+41.9,-87.66,12,Road Closed,Construction
+41.97,-87.73,5,Road Closed,Construction
+41.96,-87.69,5,Road Closed,Construction
+41.87,-87.64,4,Road Closed,Construction
+41.94,-87.65,4,Road Closed,Construction
+41.97,-87.74,4,Road Closed,Construction
+41.89,-87.69,4,Road Closed,Construction
+41.94,-87.66,3,Road Closed,Construction
+41.97,-87.75,3,Road Closed,Construction
+41.98,-87.66,2,Road Closed,Hazard
+41.76,-87.71,1,Road Closed,Hazard
+41.77,-87.68,1,Road Closed,Hazard
+41.83,-87.64,1,Road Closed,Hazard
+41.84,-87.67,1,Road Closed,Hazard
+41.89,-87.65,1,Road Closed,Hazard
+41.89,-87.62,1,Road Closed,Hazard
+41.93,-87.67,1,Road Closed,Hazard
+41.97,-87.73,1,Road Closed,Hazard
+41.99,-87.75,1,Road Closed,Hazard
+41.99,-87.82,276,Hazard,Other
+41.98,-87.81,156,Hazard,Other
+41.99,-87.81,127,Hazard,Other
+41.97,-87.81,121,Hazard,Other
+41.98,-87.82,115,Hazard,Other
+41.81,-87.63,57,Hazard,Other
+41.84,-87.63,56,Hazard,Other
+41.98,-87.84,55,Hazard,Other
+41.85,-87.63,45,Hazard,Other
+41.85,-87.64,42,Hazard,Other
+41.88,-87.67,2040,Hazard,On Road
+41.88,-87.65,1752,Hazard,On Road
+41.89,-87.65,1517,Hazard,On Road
+41.86,-87.64,1463,Hazard,On Road
+41.87,-87.64,1322,Hazard,On Road
+41.88,-87.62,1303,Hazard,On Road
+41.99,-87.66,1277,Hazard,On Road
+41.84,-87.63,1231,Hazard,On Road
+41.85,-87.64,1202,Hazard,On Road
+41.97,-87.75,1191,Hazard,On Road
+41.84,-87.68,82,Hazard,On Shoulder
+41.87,-87.64,75,Hazard,On Shoulder
+41.95,-87.73,70,Hazard,On Shoulder
+41.82,-87.74,69,Hazard,On Shoulder
+41.88,-87.62,68,Hazard,On Shoulder
+41.88,-87.67,62,Hazard,On Shoulder
+41.92,-87.67,61,Hazard,On Shoulder
+41.88,-87.63,59,Hazard,On Shoulder
+41.87,-87.62,59,Hazard,On Shoulder
+41.83,-87.69,58,Hazard,On Shoulder
+41.84,-87.63,3393,Hazard,Weather
+41.82,-87.63,3215,Hazard,Weather
+41.89,-87.65,2927,Hazard,Weather
+41.88,-87.65,2866,Hazard,Weather
+41.8,-87.63,2834,Hazard,Weather
+41.97,-87.75,2801,Hazard,Weather
+41.79,-87.63,2766,Hazard,Weather
+41.83,-87.63,2719,Hazard,Weather
+41.81,-87.63,2715,Hazard,Weather
+41.66,-87.59,2514,Hazard,Weather
